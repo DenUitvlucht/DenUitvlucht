@@ -1,5 +1,5 @@
 ### Jeugdhuis Den Uitvlucht 👋
-Op onze Github pagina kan je momenteel enkel de broncode van onze website vinden.
+Op onze Github pagina kan je hier de broncode van onze website en bot vinden.
 Onze toekomstige projects komen hier vanzelfsprekend ook op 😄
 
 :round_pushpin: Holstraat 47, 8790 Waregem
